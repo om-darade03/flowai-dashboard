@@ -63,7 +63,9 @@ flowai/
 - **Inline styles** — zero CSS-in-JS dependency
 - **localStorage** — client-side state persistence
 
-👨‍💻 Developer
-Om Darade
+
+## 👨‍💻 Developer
+
+*Om Darade*
 🐙 GitHub: @om-darade03
 📧 Email: daradeom235@gmail.com
