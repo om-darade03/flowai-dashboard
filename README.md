@@ -62,3 +62,8 @@ flowai/
 - **Vite 5** — fast dev server & build
 - **Inline styles** — zero CSS-in-JS dependency
 - **localStorage** — client-side state persistence
+
+👨‍💻 Developer
+Om Darade
+🐙 GitHub: @om-darade03
+📧 Email: daradeom235@gmail.com
